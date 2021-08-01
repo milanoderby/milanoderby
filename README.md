@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 [![milanoderby's github stats](https://github-readme-stats.vercel.app/api?username=milanoderby&show_icons=true&theme=algolia)](https://github.com/milanoderby/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=milanoderby)](https://solved.ac/milanoderby)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=milanoderby)](https://solved.ac/milanoderby)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=milanoderby)](https://solved.ac/milanoderby)
